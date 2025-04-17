@@ -1,0 +1,76 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: #fffbea;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.hero {
+    background-image: url('https://images.unsplash.com/photo-1550583724-b269bba7ed2c?auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    color: #fff;
+    position: relative;
+    text-align: center;
+}
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+}
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+.navbar {
+    background-color: #ffcc00;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.navbar .nav-link {
+    color: #333 !important;
+    font-weight: 500;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+    color: #000 !important;
+    text-decoration: underline;
+}
+.navbar-brand {
+    font-weight: bold;
+    color: #333 !important;
+}
+footer {
+    background-color: #ffcc00;
+    color: #333;
+}
+footer p {
+    margin: 0;
+}
+.features .col-md-4, .how-it-works .col-md-3 {
+    margin-bottom: 20px;
+}
+.features .fa, .how-it-works .fa {
+    color: #b58900;
+}
+.btn {
+    margin-top: 10px;
+}
