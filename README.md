@@ -5,6 +5,14 @@ This project is a Laravel-based web application for managing student or individu
 - Admin approval or rejection
 - Generating printable certificates
 
+## ⚙️ Technology Stack
+
+- **Backend:** Laravel 10+ (PHP Framework)
+- **Frontend:** Blade Templating, HTML5, CSS3
+- **Database:** MySQL
+- **Authentication:** Laravel built-in
+- **Dev Tools:** Composer, Laravel Artisan, Tinker
+
 ## 🛠️ Requirements
 
 - PHP >= 8.0
@@ -80,4 +88,15 @@ Replace the email and password with the desired values.
 - Certificate generation on one page with full registrant details
 - Print-friendly layout
 - Admin dashboard for viewing registration statuses
+## 👥 Authors
+github.com/Al-mubarmij0
+
+
+## 📬 Contact
+If you have any issues, suggestions, or collaboration requests, you can reach out via:
+
+- Email: mohammedmubaraksani@gmail.com
+
+- GitHub: github.com/Al-mubarmij0
+
 
