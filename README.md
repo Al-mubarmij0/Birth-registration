@@ -93,7 +93,7 @@ github.com/Al-mubarmij0
 
 
 ## 📬 Contact
-If you have any issues, suggestions, or collaboration requests, you can reach out via:
+If you have any issues or collaboration requests, you can reach out via:
 
 - Email: mohammedmubaraksani@gmail.com
 
