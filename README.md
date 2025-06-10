@@ -88,9 +88,6 @@ Replace the email and password with the desired values.
 - Certificate generation on one page with full registrant details
 - Print-friendly layout
 - Admin dashboard for viewing registration statuses
-## 👥 Authors
-github.com/Al-mubarmij0
-
 
 ## 📬 Contact
 If you have any issues,suggestions or collaboration requests, you can reach out via:
